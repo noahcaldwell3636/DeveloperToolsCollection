@@ -8,4 +8,4 @@ A aggregated list of interesting projects and tools for all things in and around
 - **showcase.com** : a netwrok built for developers to connect, build, and find oppertunities
 - **plausible.io** : an open source and privacy friendly alternative to google analytics for website traffic analysis
 - **treblle.com** : Understand what applications are using your APIs and how often
-- **hasnode** : A developer blogging platform
+- **hashnode.com** : A developer blogging platform
