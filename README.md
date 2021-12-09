@@ -7,6 +7,7 @@ A aggregated list of interesting projects and tools for all things in and around
 - **feedhive.io** : social media marketing and analytics powered by AI
 
 ## Developer News & Articles
+- **towardsdatascience.com** : a great source of data science articles #favorite
 - **daily.dev** : a news/article feed similar to medium for devlopers
 - **showcase.com** : a netwrok built for developers to connect, build, and find oppertunities
 - **hashnode.com** : A developer blogging platform
