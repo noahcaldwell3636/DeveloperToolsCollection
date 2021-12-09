@@ -6,7 +6,7 @@ A aggregated list of interesting projects and tools for all things in and around
     - #TODO 
 - **feedhive.io** : social media marketing and analytics powered by AI
 
-# Developer News & Articles
+## Developer News & Articles
 - **daily.dev** : a news/article feed similar to medium for devlopers
 - **showcase.com** : a netwrok built for developers to connect, build, and find oppertunities
 - **hashnode.com** : A developer blogging platform
@@ -24,7 +24,7 @@ A aggregated list of interesting projects and tools for all things in and around
     - like if I ever write some really dope & elegant code and can mint easy/costly enough, send it brother. Make blockchain history.
     - **tablericons.com** : free svg icon generator with 800+ icons and the ability to make them any color
 
-# Education
+## Education
 - **superseo.tips** : Search engine optimization tips
 
 ## Productivity
